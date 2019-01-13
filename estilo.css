@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* Desarrollado por Javi González */
+/* El 11/01/2019                  */
+body{
+    background-color: #95E1FF;
+    font-family: sans-serif;
+}
+div.div1 {
+    background-color: #FFFFE0;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}
+caption.caption1 {
+    text-align: center;
+    letter-spacing: 5px;
+}
+caption.caption2 {
+    text-align: right;
+}
+caption.caption3 {
+    text-align: left;    
+    letter-spacing: 10px;
+    margin-bottom: 5px;
+    font-size: 100%;
+    text-transform: uppercase;
+}
+table.tabla1 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: none;
+}
+table.tabla1 td {
+    width: 3em;
+    border-left: none;
+    border-right: none;
+}
+      
+table.tabla1 th {
+    width: 3em;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+table.tabla2 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-collapse: collapse;
+}
+table.tabla2 th {
+    border-top: none;
+    border-bottom: none;
+    padding-right: 5px;
+}
+table.tabla2 td {
+    border-top: none;
+    border-bottom: none;
+    padding: 5px;
+    width: 1.5em;
+    font-size: 130%;
+}
+table.tabla3 {
+    text-align: left;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table.tabla3 th {
+    text-align: center;
+}
+table.tabla3 td {
+    width: 4em;
+    height: 4em;
+    padding-left: 5px;
+    font-size: 70%;
+    vertical-align: top;
+}
+
+div.div2 {
+    background-color: #FFFFE0;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 50%; 
+}
+div.div3 {
+    background-color: #FFFFE0;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    width: 50%;
+}
